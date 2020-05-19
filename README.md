@@ -1,2 +1,2 @@
-# c44
-we create basic working programs
+# about c44
+we are a gret repository for console applications
